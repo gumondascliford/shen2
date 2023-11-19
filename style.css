@@ -1,0 +1,30 @@
+head{
+    text-align: end;
+}
+
+body {
+    background-image: url(8.jpg); 
+    background-size: cover;
+    text-align: center;
+    
+}
+
+button{
+    display: inline-block;
+    margin: 60px;
+    text-align: end;
+}
+
+h1 {
+    color: #2c0092; 
+}
+
+P {
+    color: #2d0081;
+}   
+
+ul{
+    text-align: center;
+    border: rgb(0, 0, 0);
+}
+
